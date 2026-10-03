@@ -1,0 +1,24 @@
+  135	pwd
+  136	ls
+  137	ls -a
+  138	ls -l
+  139	cd Desktop/
+  140	mkdir Coding-Cafe
+  141	mkdir Coding-Cafe/week01
+
+  172  cd..
+  173  cd ..
+  174  python3 -m venv .venv
+  175  ls
+  176  ls -a
+  177  source .venv/bin/activate
+  178  which python3
+  179  pip list
+  180  pip install requests
+  181  pip list
+  182  deactivate
+  183  which python3
+  184  man ls
+  185  man man
+  186  python3
+  187  history > week02/lab01-log.txt
